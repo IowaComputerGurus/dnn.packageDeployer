@@ -1,4 +1,6 @@
 # dnn.packageDeployer
+[![Build status](https://ci.appveyor.com/api/projects/status/c9b5ohc85p6s9ic7?svg=true)](https://ci.appveyor.com/project/IowaComputerGurus/dnn-packagedeployer)
+
 A utility application for the deploying of DNN modules, helpful for those with larger DNN solutions and multiple install packages.
 
 ## Configuration
